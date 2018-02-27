@@ -1,5 +1,5 @@
 //553 Encode and Decode TinyURL
-//要求将一个URL转换唯物短URL
+//要求将一个URL转换为短URL
 //采用发号方式
 //未全部完善 encode返回的string并非url格式
 
