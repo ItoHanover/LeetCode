@@ -1,2 +1,2 @@
 # LeetCode
-小练习
+HR = WIN
